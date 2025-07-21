@@ -35,7 +35,8 @@ This project combines the power of SQL and Power BI to analyze an E-Commerce dat
 
 ## 📸 Dashboard Preview
 
-![E-Commerce Dashboard Preview]([./Screenshots/ecommerce_dashboard.png](https://github.com/Menaka08/E-Commerce-analysis/blob/main/E-Commerce%20project%20.jpg))
+![E-Commerce Dashboard Preview](![E-Commerce project ](https://github.com/user-attachments/assets/abb334b6-81f8-444e-a1e9-b29126b5a4e4)
+))
 
 ---
 
